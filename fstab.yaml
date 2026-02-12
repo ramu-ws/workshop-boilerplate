@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://author-p133911-e1313536.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-boilerplate-forms-ws/main
+    url: https://author-p155453-e1648365.adobeaemcloud.com/bin/franklin.delivery/ramu-ws/workshop-boilerplate/main
     type: "markup"
     suffix: ".html"
